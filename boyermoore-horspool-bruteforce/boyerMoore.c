@@ -1,5 +1,4 @@
 /*
-Assignment 3
 */
 #include "funcProtoypes.h"
 
