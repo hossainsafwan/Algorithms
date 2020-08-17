@@ -1,5 +1,5 @@
 /*
-Assignment 3
+Function Prototypes
 */
 #ifndef __SAFWAN_FUNCS__ 
 #define __SAFWAN_FUNCS__

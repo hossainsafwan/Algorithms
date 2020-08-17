@@ -1,5 +1,5 @@
 /*
-Assignment 3
+String Search via Brute Force Method
 */
 #include "funcProtoypes.h"
  /*

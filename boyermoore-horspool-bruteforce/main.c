@@ -1,5 +1,5 @@
 /*
-Assignment 3
+Name: Safwan Hossain
 */
 #include "funcProtoypes.h"
 

@@ -1,5 +1,5 @@
 /*
-Assignment 3
+Horspool Algorithms
 */
 #include "funcProtoypes.h"
 int patternShift=0;
